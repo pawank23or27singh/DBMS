@@ -1,4 +1,3 @@
--- 6/9/24
 -- group by and having
 use school;
 -- how many people are from india

@@ -1,4 +1,4 @@
--- 03/09/24
+
 -- create database school nd use it
 -- create a table students 
 -- (sid auto, fname,

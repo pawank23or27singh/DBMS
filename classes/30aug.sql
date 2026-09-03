@@ -1,4 +1,4 @@
--- 04-09-24
+
 -- drop database school;
 -- create database school;
 -- use school;
